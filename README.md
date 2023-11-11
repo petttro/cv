@@ -9,7 +9,8 @@ Detail-oriented Senior C# Developer with over 15 years of experience specializin
 
 ### Technical Skills
 - Architecture and Solution design
-- Technologies: C# .net 6, ASP.NET, Git, AWS cloud (DynamoDb, Aurora (MySql), SQS, SNS, Lambda, S3)
+- Technologies: C# .net 6, ASP.NET, Git
+- AWS cloud: DynamoDb, Aurora (MySql), SQS, SNS, Lambda, S3, Secrets Manger
 - CI/CD: Bamboo, BitBucket, Jira
 - Tools: MS Visual Studio, JetBrains Rider, Postman.
 
@@ -18,8 +19,8 @@ Detail-oriented Senior C# Developer with over 15 years of experience specializin
 ### STARZ Inc, [https://www.starz.com] — Senior C# Developer / Architect
 November 2017 - December 2023
 #### Responsibilities 
-- Development and maintenance of the primary backend of the www.Starz.com platform, including authorization, IpGeo, content playback management, user profiles, billing, subscriptions, offers, etc.
-- Integration with TV providers and app stores (Apple, Google, Microsoft, etc.)
+- Development and maintenance of the primary backend of the www.Starz.com platform, including Auth, IpGeo, content playback management, user profiles, billing, subscription management, offers, etc.
+- Integration with TV providers and app stores (Apple, Google, Microsoft, Amazon etc.)
 - Code review
 #### Achievements
 - Executed RDMS DB to NoSQL database migration without downtime, handling up to 150 million records per iteration (Cassandra -> DynamoDB, Aurora -> DynamoDB)
