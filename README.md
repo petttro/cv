@@ -28,8 +28,8 @@ November 2017 - December 2023
 - Engaged in system architecture design and conducted code reviews
 - Microservices template for code generation
 #### Technologies stack
-C# .net 6, ASP.NET, AWS cloud (ELB, DynamoDb, Aurora (MySql), SQS, SNS, Lambda, S3), Cassandra, Docker. Attlassian stack (Jira, BitBucket, Bamboo, Confluence).
-Splunk, Postman
+C# .net 6, ASP.NET, AWS cloud (ELB, DynamoDb, Aurora (MySql), SQS, SNS, Lambda, S3), Cassandra, Docker. Atlassian stack: Jira, BitBucket, Bamboo, Confluence.
+Splunk, Postman.
 
 ### The Confluence Group - Project Tech Lead / Full stack developer
 June 2016 - October 2017
@@ -45,8 +45,8 @@ August 2009 - May 2016
 #### Responsibilities 
 - Development of a document management system with the use of electronic digital signatures (EDS) and a reporting system for bank clients - e-Factoring [https://e.factoring.ru].
 #### Achievements
-- Designed and implemenated integration with electronic documentation providers (Korus - sphere, Diadoc)
-- Designed and implementated Web Reporting OLAP System sub-module based on SQL Server Analysis Services data storage
+- Designed and implemented integration with electronic documentation providers (Korus - sphere, Diadoc)
+- Designed and implemented Web Reporting OLAP System sub-module based on SQL Server Analysis Services data storage
 
 #### Technologies stack
 C#, ASP.NET, .Net Framework, MS SQL, SQL Server Analysis Services (OLAP), Silverlight 5, HTML 5, JavaScript, TypeScript, Angular JS
