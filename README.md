@@ -5,7 +5,7 @@ https://www.linkedin.com/in/pettro \
 https://github.com/petttro
 
 ## Summary
-Detail-oriented Senior C# Developer with over 15 years of experience specializing in ASP.NET technologies with extensive knowledge in designing, developing, implementing, and maintaining backend services and AWS Cloud solutions. Committed to creating efficient and innovative solutions to meet organizational needs and enhance system functionalities.
+Detail-oriented Senior C# Developer with over 15 years of experience specializing in ASP.NET technologies with extensive knowledge in designing, developing, implementing, and maintaining high load scalable backend services and AWS Cloud solutions. Committed to creating efficient and innovative solutions to meet organizational needs and enhance system functionalities.
 
 ### Technical Skills
 - Architecture and Solution design
@@ -20,6 +20,7 @@ Detail-oriented Senior C# Developer with over 15 years of experience specializin
 November 2017 - December 2023
 #### Responsibilities 
 - Development and maintenance of the primary backend of the www.Starz.com platform, including Auth, IpGeo, content playback management, user profiles, billing, subscription management, offers, etc.
+- High load up to 2 000 000 RPM
 - Integration with TV providers and app stores (Apple, Google, Microsoft, Amazon etc.)
 - Code review
 #### Achievements
