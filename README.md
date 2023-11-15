@@ -22,6 +22,7 @@ November 2017 - December 2023
 - Development and maintenance of the primary backend of the www.Starz.com platform, including Auth, IpGeo, content playback management, user profiles, billing, subscription management, offers, etc.
 - High load up to 2 000 000 RPM
 - Integration with TV providers and app stores (Apple, Google, Microsoft, Amazon etc.)
+- Creating new services
 - Code review
 #### Achievements
 - Executed RDMS DB to NoSQL database migration without downtime, handling up to 150 million records per iteration (Cassandra -> DynamoDB, Aurora -> DynamoDB)
@@ -32,6 +33,7 @@ November 2017 - December 2023
 - Ensured multi-region functionality based on AWS, including localization and launching in various countries
 - Engaged in system architecture design and conducted code reviews
 - Microservices template for code generation
+- Introduced StyleCop to the project, to check code style automaticaly
 #### Technologies stack
 C# .net 6, ASP.NET, AWS cloud (ELB, DynamoDb, Aurora (MySql), SQS, SNS, Lambda, S3), Cassandra, Docker. Atlassian stack: Jira, BitBucket, Bamboo, Confluence.
 Splunk, Postman.
