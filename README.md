@@ -28,7 +28,7 @@ November 2017 - December 2023
 - Executed RDMS DB to NoSQL database migration without downtime, handling up to 150 million records per iteration (Cassandra -> DynamoDB, Aurora -> DynamoDB)
 - Designed and implemented a cross-regional asynchronous communication solution using AWS SNS and SQS, enabling decoupled inter-service messaging for enhanced scalability and reliability across global services.
 - Engineered a fault-tolerant messaging architecture that facilitated seamless data flow between microservices distributed over multiple AWS regions, improving system resiliency and disaster recovery capabilities.
-- Implemented production data encryption to comply with GDPR and PII standards
+- Implemented production data encryption to comply with GDPR and PII standards. Designed encryption approach and batch encryption tool.
 - Developed an emulator for app store APIs (Apple Store, Google Play, Roku, Amazon etc), significantly simplifying integration testing for subscription verification.
 - Ensured multi-region functionality based on AWS, including localization and launching in various countries
 - Engaged in system architecture design and conducted code reviews
