@@ -25,7 +25,8 @@ November 2017 - December 2023
 - Code review
 #### Achievements
 - Executed RDMS DB to NoSQL database migration without downtime, handling up to 150 million records per iteration (Cassandra -> DynamoDB, Aurora -> DynamoDB)
-- Designed a cross-regional asynchronous interaction solution between services based on AWS SNS and SQS, enabling message-queue communication also across AWS regions 
+- Designed and implemented a cross-regional asynchronous communication solution using AWS SNS and SQS, enabling decoupled inter-service messaging for enhanced scalability and reliability across global services.
+- Engineered a fault-tolerant messaging architecture that facilitated seamless data flow between microservices distributed over multiple AWS regions, improving system resiliency and disaster recovery capabilities.
 - Implemented production data encryption to comply with GDPR and PII standards
 - Developed an emulator for app store APIs (Apple Store, Google Play, Roku, Amazon etc), significantly simplifying integration testing for subscription verification.
 - Ensured multi-region functionality based on AWS, including localization and launching in various countries
