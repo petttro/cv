@@ -9,14 +9,15 @@ Detail-oriented Senior C# Developer with over 15 years of experience specializin
 
 ### Technical Skills
 - Architecture and Solution design
-- Technologies: C# .net 6, ASP.NET, Git
+- Technologies: C#, .net 6, ASP.NET core
 - AWS cloud: DynamoDb, Aurora (MySql), SQS, SNS, Lambda, S3, Secrets Manger
-- CI/CD: Bamboo, BitBucket, Jira
+- CI/CD: Bamboo, BitBucket, Jira, Git
 - Tools: MS Visual Studio, JetBrains Rider, Postman.
+- DDD, TDD, Agile
 
 ## Experience
 
-### STARZ Inc, [https://www.starz.com] — Senior C# Developer / Architect
+### STARZ Entertainment, LLC [https://www.starz.com] — Senior C# Developer / Architect
 November 2017 - December 2023
 #### Responsibilities 
 - Development and maintenance of the primary backend of the www.Starz.com platform, including Auth, IpGeo, content playback management, user profiles, billing, subscription management, offers, etc.
@@ -46,7 +47,7 @@ June 2016 - October 2017
 #### Technologies stack
 C#, .Net Framework 4.7, Angular, MS SQL, Rabbit MQ
 
-### National Factoring Company [www.factoring.ru] — Deputy Head of Internet Technology Development
+### Bank "National Factoring Company" [www.factoring.ru] — Deputy Head of Internet Technology Development
 August 2009 - May 2016
 
 #### Responsibilities 
