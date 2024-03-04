@@ -1,5 +1,5 @@
 # Petr Naumenko
-## Senior .NET Developer / Architect
+## Senior .NET Developer
 petro.naumenko@gmail.com \
 https://www.linkedin.com/in/pettro \
 https://github.com/petttro
