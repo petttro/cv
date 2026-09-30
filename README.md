@@ -9,28 +9,47 @@ Detail-oriented Senior C# Developer with over 15 years of experience specializin
 
 ### Technical Skills
 - Architecture and Solution design
-- Technologies: C#, .net 6, ASP.NET core
-- AWS cloud: DynamoDb, Aurora (MySql), SQS, SNS, Lambda, S3, Secrets Manger
+- Technologies: C#, .NET 8/10, ASP.NET Core
+- MongoDB, PostgreSQL, MS SQL
+- AWS cloud: DynamoDB, Aurora DB (MySQL), SQS, SNS, Lambda, S3, Secrets Manager
 - CI/CD: Bamboo, BitBucket, Jira, Git
-- Tools: MS Visual Studio, JetBrains Rider, Postman.
-- DDD, TDD, Agile
+- Tools: Visual Studio, JetBrains Rider, Postman.
+- DDD, Clean Architecture, CQRS, TDD, Agile
 
 ## Experience
 
+### M.Video — Senior .NET Developer
+
+August 2024 - September 2026
+
+#### Responsibilities
+
+- Development of backend services and REST APIs using .NET 8 / .NET 10 and ASP.NET Core, including independent architecture design based on Clean Architecture, DDD and CQRS.
+- Development of gateway services and integrations with major marketplaces: Ozon, Wildberries, Yandex Market and SberMegaMarket.
+- Development of the **"Repairs"** platform for managing service requests and the **"Settlements"** system for payment document generation and settlements with service companies and service centers.
+- Integration with payment gateways, SAP ERP and internal company services; implementation of event-driven inter-service communication using Kafka and Wolverine.
+- Development of a product catalog service handling **500K+ SKUs** using MongoDB, including product hierarchy, attribute filtering, bulk search and image storage in Yandex Cloud S3.
+- Implementation of domain/integration events and transactional outbox, centralized error handling, monitoring and automated testing.
+- Participation in architecture design, technical decision-making and code reviews.
+
+#### Technologies stack
+
+C#, .NET 10, .NET 8, ASP.NET Core, PostgreSQL, MongoDB, EF Core, Kafka, Wolverine, REST API, Docker, Git, GitLab CI/CD, Grafana, Kibana, S3, Quartz.NET, xUnit, Moq, Clean Architecture, DDD, CQRS, TDD.
+
 ### STARZ Entertainment, LLC [https://www.starz.com] — Senior C# Developer / Architect
-November 2017 - December 2023
+November 2017 - February 2024
 #### Responsibilities 
 - Development and maintenance of the primary backend of the www.Starz.com platform, including Auth, IpGeo, content playback management, user profiles, billing, subscription management, offers, etc.
 - High load up to 2 000 000 RPM
-- Integration with TV providers and app stores (Apple, Google, Microsoft, Amazon etc.)
+- Integration with TV providers and app stores (Apple, Google, Microsoft, Amazon, etc.)
 - Creating new services
 - Code review
 #### Achievements
-- Executed RDMS DB to NoSQL database migration without downtime, handling up to 150 million records per iteration (Cassandra -> DynamoDB, Aurora -> DynamoDB)
+- Executed an RDBMS-to-NoSQL database migration without downtime, handling up to 150 million records per iteration (Cassandra -> DynamoDB, Aurora -> DynamoDB)
 - Designed and implemented a cross-regional asynchronous communication solution using AWS SNS and SQS, enabling decoupled inter-service messaging for enhanced scalability and reliability across global services.
 - Engineered a fault-tolerant messaging architecture that facilitated seamless data flow between microservices distributed over multiple AWS regions, improving system resiliency and disaster recovery capabilities.
 - Implemented production data encryption to comply with GDPR and PII standards. Designed encryption approach and batch encryption tool.
-- Developed an emulator for app store APIs (Apple Store, Google Play, Roku, Amazon etc), significantly simplifying integration testing for subscription verification.
+- Developed an emulator for app store APIs (Apple Store, Google Play, Roku, Amazon, etc), significantly simplifying integration testing for subscription verification.
 - Ensured multi-region functionality based on AWS, including localization and launching in various countries
 - Engaged in system architecture design and conducted code reviews
 - Microservices template for code generation
@@ -39,13 +58,13 @@ November 2017 - December 2023
 C# .net 6, ASP.NET, AWS cloud (ELB, DynamoDb, Aurora (MySql), SQS, SNS, Lambda, S3), Cassandra, Docker. Atlassian stack: Jira, BitBucket, Bamboo, Confluence.
 Splunk, Postman.
 
-### The Confluence Group - Project Tech Lead / Full stack developer
+### The Confluence Group - Project Tech Lead / Full-Stack Developer
 June 2016 - October 2017
-- Development, maintenance and implementation of Enterprise Asset Management system that allows utilities (focus on water, wastewater, etc.) to manage their assets through their entire life-cycle.
+- Development, maintenance and implementation of Enterprise Asset Management system that allows utilities (focus on water, wastewater, etc.) to manage their assets through their entire lifecycle.
 - Led projects for various companies, including Denver Water, DC Water, Badger Meter, and Western Disposal
 
 #### Technologies stack
-C#, .Net Framework 4.7, Angular, MS SQL, Rabbit MQ
+C#, .Net Framework 4.7, Angular, MS SQL, RabbitMQ
 
 ### Bank "National Factoring Company" [www.factoring.ru] — Deputy Head of Internet Technology Development
 August 2009 - May 2016
@@ -57,13 +76,13 @@ August 2009 - May 2016
 - Designed and implemented Web Reporting OLAP System sub-module based on SQL Server Analysis Services data storage
 
 #### Technologies stack
-C#, ASP.NET, .Net Framework, MS SQL, SQL Server Analysis Services (OLAP), Silverlight 5, HTML 5, JavaScript, TypeScript, Angular JS
+C#, ASP.NET, .Net Framework, MS SQL, SQL Server Analysis Services (OLAP), Silverlight 5, HTML5, JavaScript, TypeScript, AngularJS
 
 ## Education
 Higher Education
 
 #### Moscow Power Engineering Institute (National Research University), Moscow
-Faculty of Automated Systems and Computer Engineering (Computer science)\
+Faculty of Automated Systems and Computer Engineering (Computer Science)\
 Degree: Qualified Specialist
 
 September 2002 - June 2008
